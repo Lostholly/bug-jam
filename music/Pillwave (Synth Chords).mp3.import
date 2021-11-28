@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pillwave (Synth Chords).mp3-2e8be933bf8eb0171c23916b8cf0904e.mp3str"
+
+[deps]
+
+source_file="res://Music/Pillwave (Synth Chords).mp3"
+dest_files=[ "res://.import/Pillwave (Synth Chords).mp3-2e8be933bf8eb0171c23916b8cf0904e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

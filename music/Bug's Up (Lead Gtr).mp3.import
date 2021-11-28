@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bug's Up (Lead Gtr).mp3-df85b758c5ef7a3f019e225f395febc7.mp3str"
+
+[deps]
+
+source_file="res://Music/Bug's Up (Lead Gtr).mp3"
+dest_files=[ "res://.import/Bug's Up (Lead Gtr).mp3-df85b758c5ef7a3f019e225f395febc7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

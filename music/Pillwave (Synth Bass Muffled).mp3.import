@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pillwave (Synth Bass Muffled).mp3-bbeee7ffc47652fa4614e5ce0bd82bc6.mp3str"
+
+[deps]
+
+source_file="res://Music/Pillwave (Synth Bass Muffled).mp3"
+dest_files=[ "res://.import/Pillwave (Synth Bass Muffled).mp3-bbeee7ffc47652fa4614e5ce0bd82bc6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

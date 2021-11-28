@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wake Up, Get Up, Bug Out There (Bass).mp3-5b3498104653dc31d8bc848cba36681d.mp3str"
+
+[deps]
+
+source_file="res://Music/Wake Up, Get Up, Bug Out There (Bass).mp3"
+dest_files=[ "res://.import/Wake Up, Get Up, Bug Out There (Bass).mp3-5b3498104653dc31d8bc848cba36681d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

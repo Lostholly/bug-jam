@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Raise A Tiny, Bug-Sized Glass.mp3-ba008f02aea0a460e8765d0881d4d9f4.mp3str"
+
+[deps]
+
+source_file="res://Music/Raise A Tiny, Bug-Sized Glass.mp3"
+dest_files=[ "res://.import/Raise A Tiny, Bug-Sized Glass.mp3-ba008f02aea0a460e8765d0881d4d9f4.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

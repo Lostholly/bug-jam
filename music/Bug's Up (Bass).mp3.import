@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bug's Up (Bass).mp3-73a12030781f440d3078ebe6ce0d187b.mp3str"
+
+[deps]
+
+source_file="res://Music/Bug's Up (Bass).mp3"
+dest_files=[ "res://.import/Bug's Up (Bass).mp3-73a12030781f440d3078ebe6ce0d187b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

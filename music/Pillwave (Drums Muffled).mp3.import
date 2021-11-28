@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pillwave (Drums Muffled).mp3-1e95b7f56c292ecbd18e0b251e29f40f.mp3str"
+
+[deps]
+
+source_file="res://Music/Pillwave (Drums Muffled).mp3"
+dest_files=[ "res://.import/Pillwave (Drums Muffled).mp3-1e95b7f56c292ecbd18e0b251e29f40f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

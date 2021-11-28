@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wake Up, Get Up, Bug Out There (Organ Muffled).mp3-85d70966d60483af5319c44a1b2f8984.mp3str"
+
+[deps]
+
+source_file="res://Music/Wake Up, Get Up, Bug Out There (Organ Muffled).mp3"
+dest_files=[ "res://.import/Wake Up, Get Up, Bug Out There (Organ Muffled).mp3-85d70966d60483af5319c44a1b2f8984.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

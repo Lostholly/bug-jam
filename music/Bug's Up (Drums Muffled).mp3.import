@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bug's Up (Drums Muffled).mp3-45279a2ff448ca17511d11e6c478d2cd.mp3str"
+
+[deps]
+
+source_file="res://Music/Bug's Up (Drums Muffled).mp3"
+dest_files=[ "res://.import/Bug's Up (Drums Muffled).mp3-45279a2ff448ca17511d11e6c478d2cd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wake Up, Get Up, Bug Out There (Organ).mp3-53192d6c1a2b179c747fdea0b30f7a0f.mp3str"
+
+[deps]
+
+source_file="res://Music/Wake Up, Get Up, Bug Out There (Organ).mp3"
+dest_files=[ "res://.import/Wake Up, Get Up, Bug Out There (Organ).mp3-53192d6c1a2b179c747fdea0b30f7a0f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pillwave (Drums).mp3-cff2ebacb254070bf789889189517c39.mp3str"
+
+[deps]
+
+source_file="res://Music/Pillwave (Drums).mp3"
+dest_files=[ "res://.import/Pillwave (Drums).mp3-cff2ebacb254070bf789889189517c39.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

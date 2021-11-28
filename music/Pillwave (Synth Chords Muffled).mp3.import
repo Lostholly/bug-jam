@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pillwave (Synth Chords Muffled).mp3-9d3a9c86c01e92d29d74fdf81ad5a522.mp3str"
+
+[deps]
+
+source_file="res://Music/Pillwave (Synth Chords Muffled).mp3"
+dest_files=[ "res://.import/Pillwave (Synth Chords Muffled).mp3-9d3a9c86c01e92d29d74fdf81ad5a522.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

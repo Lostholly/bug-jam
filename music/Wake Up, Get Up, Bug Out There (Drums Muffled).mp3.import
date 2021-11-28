@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Wake Up, Get Up, Bug Out There (Drums Muffled).mp3-3a8b686de7e92a3bb375ea0a34fa6de2.mp3str"
+
+[deps]
+
+source_file="res://Music/Wake Up, Get Up, Bug Out There (Drums Muffled).mp3"
+dest_files=[ "res://.import/Wake Up, Get Up, Bug Out There (Drums Muffled).mp3-3a8b686de7e92a3bb375ea0a34fa6de2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
